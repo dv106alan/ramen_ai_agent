@@ -6,4 +6,10 @@
  資料庫：mariadb  
  運行插件需求：ngrok, ffmpeg  
 ### 系統說明
+![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide1.png)  
+![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide3.png)  
+![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide4.png)  
+![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide5.png)  
+![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide6.png)  
+
 
