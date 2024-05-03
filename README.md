@@ -5,7 +5,8 @@
  作業系統：ubuntu22.04  
  資料庫：mariadb  
  運行插件需求：ngrok, ffmpeg  
-### 系統說明
+### 系統說明  
+使用Langchain加上Gemini及Linebot實作拉麵專家系統，其中系統使用LLM做語意分析及意圖判斷、資料庫查詢、RAG資料查詢、分析整理資料、並整理及回覆使用者資訊。  
 ![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide1.png)  
 ![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide6.png)  
 ![image](https://raw.githubusercontent.com/dv106alan/ramen_ai_agent/main/readmefile/Slide4.png)  
